@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" fill="none" role="img" aria-labelledby="gitpulse-title gitpulse-desc">
+  <title id="gitpulse-title">gitpulse — repository signal cover</title>
+  <desc id="gitpulse-desc">Original geometric artwork: a branching commit path beside an abstract mint pulse, representing local repository activity without depicting measured data.</desc>
+  <rect x="0.5" y="0.5" width="719" height="239" rx="20" fill="#090c12" stroke="#26343d"/>
+  <text x="36" y="43" fill="#88969e" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5">03 / REPOSITORY SIGNAL</text>
+  <text x="33" y="132" fill="#eae9e1" font-family="ui-sans-serif, 'Segoe UI', sans-serif" font-size="64" font-weight="650" letter-spacing="-2.5">gitpulse</text>
+  <path d="M36 187H105" stroke="#a5f2cd" stroke-width="2"/>
+  <path d="M113 187H139" stroke="#34434b" stroke-width="2"/>
+  <path d="M36 202H70" stroke="#34434b"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="419" y="47" width="257" height="150" rx="12" fill="#111820" stroke="#405e53"/>
+    <path d="M420 74H675" stroke="#26343d"/>
+    <path d="M435 60H463M649 60H660" stroke="#66847b"/>
+    <path d="M515 88V181" stroke="#26343d"/>
+    <path d="M447 94V176" stroke="#a5f2cd" stroke-width="1.5"/>
+    <path d="M447 156C447 144 486 145 486 130V107" stroke="#ff8c73" stroke-width="1.5"/>
+    <path d="M447 116C447 127 486 119 486 133" stroke="#40514f"/>
+    <circle cx="447" cy="98" r="5" fill="#111820" stroke="#a5f2cd" stroke-width="1.5"/>
+    <circle cx="447" cy="135" r="5" fill="#111820" stroke="#a5f2cd" stroke-width="1.5"/>
+    <circle cx="447" cy="174" r="5" fill="#111820" stroke="#a5f2cd" stroke-width="1.5"/>
+    <circle cx="486" cy="106" r="5" fill="#19171b" stroke="#ff8c73" stroke-width="1.5"/>
+    <path d="M529 135H660" stroke="#26343d" stroke-dasharray="2 6"/>
+    <path d="M529 135H546L555 122L566 150L582 100L598 169L611 124L622 135H649" stroke="#a5f2cd" stroke-width="2"/>
+    <circle cx="651" cy="135" r="3" fill="#a5f2cd"/>
+    <path d="M530 179H553M637 92H660" stroke="#40514f"/>
+    <path d="M442 212H480M488 212H502" stroke="#26343d"/>
+    <path d="M661 28H673M667 22V34" stroke="#34434b"/>
+  </g>
+</svg>

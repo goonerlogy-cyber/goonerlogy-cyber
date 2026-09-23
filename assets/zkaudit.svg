@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" fill="none" role="img" aria-labelledby="zkaudit-title zkaudit-desc">
+  <title id="zkaudit-title">zkaudit — network audit cover</title>
+  <desc id="zkaudit-desc">Original geometric artwork: an abstract network capture under a magnifying lens, with one coral fragment highlighted for inspection.</desc>
+  <rect x="0.5" y="0.5" width="719" height="239" rx="20" fill="#090c12" stroke="#26343d"/>
+  <text x="36" y="43" fill="#88969e" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5">06 / NETWORK AUDIT</text>
+  <text x="33" y="132" fill="#eae9e1" font-family="ui-sans-serif, 'Segoe UI', sans-serif" font-size="64" font-weight="650" letter-spacing="-2.5">zkaudit</text>
+  <path d="M36 187H105" stroke="#a5f2cd" stroke-width="2"/>
+  <path d="M113 187H139" stroke="#34434b" stroke-width="2"/>
+  <path d="M36 202H70" stroke="#34434b"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M450 51H539L566 78V178C566 184.6 560.6 190 554 190H450C443.4 190 438 184.6 438 178V63C438 56.4 443.4 51 450 51Z" fill="#111820" stroke="#405e53"/>
+    <path d="M538 52V70C538 75 542 79 547 79H565" stroke="#405e53"/>
+    <path d="M454 72H492M454 81H477" stroke="#66847b"/>
+    <path d="M454 103H524M454 133H524M454 163H511" stroke="#26343d"/>
+    <path d="M454 110L460 114L454 118M454 140L460 144L454 148M454 170L460 174L454 178" stroke="#66847b"/>
+    <path d="M470 114H489M498 114H523M470 144H508M470 174H498" stroke="#40514f" stroke-width="2"/>
+    <path d="M615 156L654 195" stroke="#405e53" stroke-width="12"/>
+    <path d="M615 156L654 195" stroke="#111820" stroke-width="8"/>
+    <path d="M626 168L648 190" stroke="#a5f2cd" stroke-width="2"/>
+    <circle cx="586" cy="126" r="42" fill="#0c1517" stroke="#a5f2cd" stroke-width="1.5"/>
+    <circle cx="586" cy="126" r="33" stroke="#263f38"/>
+    <path d="M561 112H577M596 112H608M565 140H584M596 140H610" stroke="#405e53" stroke-width="2"/>
+    <rect x="571" y="119" width="31" height="13" rx="3" fill="#19171b" stroke="#ff8c73"/>
+    <path d="M578 125.5H583M588 125.5H595" stroke="#ff8c73" stroke-width="1.5"/>
+    <path d="M586 75V67M637 126H645M586 177V185" stroke="#66847b"/>
+    <path d="M428 210H470M478 210H494" stroke="#26343d"/>
+    <path d="M654 53H666M660 47V59" stroke="#34434b"/>
+  </g>
+</svg>

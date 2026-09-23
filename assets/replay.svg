@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" fill="none" role="img" aria-labelledby="replay-title replay-desc">
+  <title id="replay-title">replay — terminal cover</title>
+  <desc id="replay-desc">Original geometric artwork: layered terminal panes and a mint playback symbol on a dark background.</desc>
+  <rect x="0.5" y="0.5" width="719" height="239" rx="20" fill="#090c12" stroke="#26343d"/>
+  <text x="36" y="43" fill="#88969e" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5">01 / TERMINAL</text>
+  <text x="33" y="132" fill="#eae9e1" font-family="ui-sans-serif, 'Segoe UI', sans-serif" font-size="64" font-weight="650" letter-spacing="-2.5">replay</text>
+  <path d="M36 187H105" stroke="#a5f2cd" stroke-width="2"/>
+  <path d="M113 187H139" stroke="#34434b" stroke-width="2"/>
+  <path d="M36 202H70" stroke="#34434b"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="411" y="41" width="208" height="136" rx="10" fill="#111820" stroke="#26343d"/>
+    <path d="M412 65H618" stroke="#26343d"/>
+    <path d="M427 53H453" stroke="#40514f"/>
+    <rect x="433" y="61" width="220" height="137" rx="10" fill="#10171e" stroke="#344b47"/>
+    <path d="M434 86H652" stroke="#344b47"/>
+    <path d="M449 73H475" stroke="#66847b"/>
+    <rect x="455" y="81" width="220" height="136" rx="10" fill="#111820" stroke="#6d9988"/>
+    <path d="M456 107H674" stroke="#344b47"/>
+    <circle cx="470" cy="94" r="2" fill="#a5f2cd"/>
+    <circle cx="479" cy="94" r="2" fill="#66847b"/>
+    <circle cx="488" cy="94" r="2" fill="#344b47"/>
+    <path d="M649 94H659" stroke="#66847b"/>
+    <path d="M473 128L480 134L473 140" stroke="#a5f2cd" stroke-width="2"/>
+    <path d="M489 137H536" stroke="#88969e" stroke-width="2"/>
+    <path d="M473 157H516M525 157H551M473 170H535M473 183H501" stroke="#40514f" stroke-width="2"/>
+    <circle cx="622" cy="159" r="28" fill="#0c1517" stroke="#405e53"/>
+    <path d="M616 146L635 159L616 172V146Z" fill="#a5f2cd"/>
+    <path d="M570 195H654" stroke="#344b47"/>
+    <path d="M570 195H603" stroke="#a5f2cd"/>
+    <circle cx="603" cy="195" r="2.5" fill="#a5f2cd"/>
+    <path d="M666 39H678M672 33V45" stroke="#34434b"/>
+  </g>
+</svg>

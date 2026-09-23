@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" fill="none" role="img" aria-labelledby="portgraph-title portgraph-desc">
+  <title id="portgraph-title">portgraph — connections cover</title>
+  <desc id="portgraph-desc">Original geometric artwork: a central routing node connects to a small network of ports using fine mint and coral lines.</desc>
+  <rect x="0.5" y="0.5" width="719" height="239" rx="20" fill="#090c12" stroke="#26343d"/>
+  <text x="36" y="43" fill="#88969e" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="1.5">02 / CONNECTIONS</text>
+  <text x="33" y="132" fill="#eae9e1" font-family="ui-sans-serif, 'Segoe UI', sans-serif" font-size="64" font-weight="650" letter-spacing="-2.5">portgraph</text>
+  <path d="M36 187H105" stroke="#a5f2cd" stroke-width="2"/>
+  <path d="M113 187H139" stroke="#34434b" stroke-width="2"/>
+  <path d="M36 202H70" stroke="#34434b"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M441 56H662V198H441V56Z" stroke="#1b2830" stroke-dasharray="2 8"/>
+    <path d="M446 124H511M544 105V61H625M562 124H644M544 143V186H612" stroke="#a5f2cd" stroke-width="1.5"/>
+    <path d="M473 197V169H524M624 186H645V145" stroke="#344b47"/>
+    <path d="M471 61H491V98H517" stroke="#ff8c73" stroke-width="1.5"/>
+    <path d="M582 61V42H620" stroke="#344b47"/>
+    <rect x="509" y="91" width="70" height="66" rx="15" fill="#111820" stroke="#405e53"/>
+    <rect x="522" y="104" width="44" height="40" rx="8" fill="#0c1517" stroke="#a5f2cd"/>
+    <path d="M533 119L539 113H549L555 119V129L549 135H539L533 129V119Z" stroke="#a5f2cd"/>
+    <circle cx="544" cy="124" r="3" fill="#a5f2cd"/>
+    <rect x="420" y="112" width="26" height="24" rx="6" fill="#111820" stroke="#6d9988"/>
+    <path d="M429 120H437M429 127H437" stroke="#a5f2cd"/>
+    <rect x="626" y="49" width="31" height="24" rx="6" fill="#111820" stroke="#6d9988"/>
+    <circle cx="641.5" cy="61" r="3.5" stroke="#a5f2cd"/>
+    <rect x="645" y="110" width="30" height="29" rx="7" fill="#111820" stroke="#6d9988"/>
+    <path d="M655 121H665M655 128H660" stroke="#a5f2cd"/>
+    <rect x="612" y="175" width="24" height="23" rx="6" fill="#111820" stroke="#6d9988"/>
+    <circle cx="624" cy="186.5" r="3" fill="#a5f2cd"/>
+    <rect x="448" y="49" width="24" height="24" rx="6" fill="#19171b" stroke="#b36757"/>
+    <path d="M457 61H463M460 58V64" stroke="#ff8c73"/>
+    <circle cx="491" cy="98" r="3" fill="#090c12" stroke="#ff8c73"/>
+    <circle cx="544" cy="186" r="3" fill="#090c12" stroke="#a5f2cd"/>
+    <circle cx="582" cy="61" r="3" fill="#090c12" stroke="#a5f2cd"/>
+    <circle cx="473" cy="197" r="3" fill="#090c12" stroke="#40514f"/>
+    <path d="M589 121L593 124L589 127M475 121L479 124L475 127M541 166L544 170L547 166" stroke="#a5f2cd"/>
+  </g>
+</svg>
