@@ -4,11 +4,11 @@
 
 I like small tools with a clear purpose: terminals you can rewind, networks you can inspect, and background jobs that finish properly. Currently working through the interesting edge cases in **Go** and **TypeScript** projects.
 
-[Explore the repos](https://github.com/goonerlogy-cyber?tab=repositories) · [Browse the changes](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3Agoonerlogy-cyber)
+[Explore the repos](https://github.com/goonerlogy-cyber?tab=repositories) · [Browse the pull requests](https://github.com/pulls?q=is%3Apr+is%3Aclosed+author%3Agoonerlogy-cyber)
 
 ## On the workbench
 
-Six forks I'm improving. The linked pull requests show what's changed and how it's tested.
+Six forks I maintain. The linked pull requests document the changes now merged in those forks and how they were tested.
 
 <table>
   <tr>
@@ -43,7 +43,7 @@ Six forks I'm improving. The linked pull requests show what's changed and how it
   </tr>
 </table>
 
-These projects began with [arshnah](https://github.com/arshnah). My work is in the linked PRs, currently open in my forks. Original authorship and licenses stay intact.
+These projects began with [arshnah](https://github.com/arshnah). My work is documented in the linked PRs and merged into my forks. Original authorship and licenses stay intact.
 
 <details>
 <summary>Under the hood — changes &amp; verification</summary>
@@ -55,10 +55,10 @@ These projects began with [arshnah](https://github.com/arshnah). My work is in t
 | [gitpulse](https://github.com/goonerlogy-cyber/gitpulse/pull/1) | JSON reports with accurate file accounting across paths and tracked symlinks. | Linux and Windows tests, vet, and build. |
 | [toil](https://github.com/goonerlogy-cyber/toil/pull/1) | Bounded worker completion and observable queue-request errors. | HTTP regression tests, crash simulations, and Linux race checks. |
 | [cipherdrop — privacy](https://github.com/goonerlogy-cyber/cipherdrop/pull/1) | Single-reader burn drops and expiry validation. | Multi-process regression tests and HTTP concurrency smoke tests. |
-| [cipherdrop — maintenance](https://github.com/goonerlogy-cyber/cipherdrop/pull/2) | Supported Next.js/React upgrade, stacked on the privacy fix. | 14 tests; lint, typecheck, build, dependency audit, and browser flow. |
+
 | [zkaudit](https://github.com/goonerlogy-cyber/zkaudit/pull/1) | Exact file/stdin input and rejection of empty secret scans. | Linux and Windows tests, vet, build, and Linux race checks. |
 
-These are proposed changes, not upstream releases. Each PR includes the details and validation limits.
+These changes are merged in my forks, not upstream releases. Each linked PR records the details and validation limits.
 
 </details>
 
