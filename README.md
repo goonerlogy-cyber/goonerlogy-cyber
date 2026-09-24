@@ -55,7 +55,6 @@ These projects began with [arshnah](https://github.com/arshnah). My work is docu
 | [gitpulse](https://github.com/goonerlogy-cyber/gitpulse/pull/1) | JSON reports with accurate file accounting across paths and tracked symlinks. | Linux and Windows tests, vet, and build. |
 | [toil](https://github.com/goonerlogy-cyber/toil/pull/1) | Bounded worker completion and observable queue-request errors. | HTTP regression tests, crash simulations, and Linux race checks. |
 | [cipherdrop — privacy](https://github.com/goonerlogy-cyber/cipherdrop/pull/1) | Single-reader burn drops and expiry validation. | Multi-process regression tests and HTTP concurrency smoke tests. |
-
 | [zkaudit](https://github.com/goonerlogy-cyber/zkaudit/pull/1) | Exact file/stdin input and rejection of empty secret scans. | Linux and Windows tests, vet, build, and Linux race checks. |
 
 These changes are merged in my forks, not upstream releases. Each linked PR records the details and validation limits.
