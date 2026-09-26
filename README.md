@@ -1,12 +1,22 @@
+<div align="center">
+
 <img src="./assets/header.svg" width="100%" alt="JAFN — small software. interesting internals." />
 
-### Hey, I'm JAFN.
+### JAFN
 
-I like small tools with a clear purpose: terminals you can rewind, networks you can inspect, and background jobs that finish properly. Currently working through the interesting edge cases in **Go** and **TypeScript** projects.
+<sub>**goonerlogy-cyber**</sub>
 
-[Explore the repos](https://github.com/goonerlogy-cyber?tab=repositories) · [Browse the pull requests](https://github.com/pulls?q=is%3Apr+is%3Aclosed+author%3Agoonerlogy-cyber)
+small tools · clear purpose · useful diffs
 
-## On the workbench
+I like terminals you can rewind, networks you can inspect, background jobs that finish cleanly, and algorithm visualizers that make the hard parts obvious. Currently working through interesting edge cases in **Go** and **TypeScript**.
+
+[repos](https://github.com/goonerlogy-cyber?tab=repositories) · [pull requests](https://github.com/pulls?q=is%3Apr+is%3Aclosed+author%3Agoonerlogy-cyber)
+
+</div>
+
+<br/>
+
+## on the workbench
 
 Six forks I maintain. The linked pull requests document the changes now merged in those forks and how they were tested.
 
@@ -46,7 +56,7 @@ Six forks I maintain. The linked pull requests document the changes now merged i
 These projects began with [arshnah](https://github.com/arshnah). My work is documented in the linked PRs and merged into my forks. Original authorship and licenses stay intact.
 
 <details>
-<summary>Under the hood — changes &amp; verification</summary>
+<summary>under the hood — changes & verification</summary>
 
 | Project | Change | Checked with |
 | --- | --- | --- |
@@ -54,7 +64,7 @@ These projects began with [arshnah](https://github.com/arshnah). My work is docu
 | [portgraph](https://github.com/goonerlogy-cyber/portgraph/pull/1) | IPv6 TCP/UDP discovery, process ownership, and readable polling failures. | Live IPv6 socket tests; Linux race checks; Windows parser tests. |
 | [gitpulse](https://github.com/goonerlogy-cyber/gitpulse/pull/1) | JSON reports with accurate file accounting across paths and tracked symlinks. | Linux and Windows tests, vet, and build. |
 | [toil](https://github.com/goonerlogy-cyber/toil/pull/1) | Bounded worker completion and observable queue-request errors. | HTTP regression tests, crash simulations, and Linux race checks. |
-| [cipherdrop — privacy](https://github.com/goonerlogy-cyber/cipherdrop/pull/1) | Single-reader burn drops and expiry validation. | Multi-process regression tests and HTTP concurrency smoke tests. |
+| [cipherdrop](https://github.com/goonerlogy-cyber/cipherdrop/pull/1) | Single-reader burn drops and expiry validation. | Multi-process regression tests and HTTP concurrency smoke tests. |
 | [zkaudit](https://github.com/goonerlogy-cyber/zkaudit/pull/1) | Exact file/stdin input and rejection of empty secret scans. | Linux and Windows tests, vet, build, and Linux race checks. |
 
 These changes are merged in my forks, not upstream releases. Each linked PR records the details and validation limits.
@@ -63,4 +73,8 @@ These changes are merged in my forks, not upstream releases. Each linked PR reco
 
 ---
 
-Small scope. Reproducible bugs. Useful diffs.
+<div align="center">
+
+<small>small scope · reproducible bugs · useful diffs</small>
+
+</div>
